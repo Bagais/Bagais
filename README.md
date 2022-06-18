@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bagais
-- 👀 I’m interested in learning to creatte clean and functional code
+- 👀 I’m interested in learning to create clean and functional code
 - 🌱 I’m currently learning to be a fullstack developer with Zuri/Ingress
 - 💞️ I’m looking to collaborate on website design and animation
 - 📫 How to reach me email:elishabagaiya@yahoo.com, twitter: @bagaiss

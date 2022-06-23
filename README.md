@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to create clean and functional code
 - 🌱 I’m currently learning to be a fullstack developer with Zuri/Ingress
 - 💞️ I’m looking to collaborate on website design and animation
-- 📫 How to reach me email:elishabagaiya@yahoo.com, twitter: @bagaiss
+- 📫 How to reach me email: elishabagaiya@yahoo.com, twitter: @bagaiss
 
 <!---
 Bagais/Bagais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

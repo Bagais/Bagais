@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bagais
 - 👀 I’m interested in learning to create clean and functional code
-- 🌱 Currently learning to be a fullstack developer with Zuri/Ingressive4Good.
+- 🌱 Currently learning to be a fullstack developer.
 - 💞️ I’m looking to collaborate on website design, maintenance and then animation subsequently.
 - 📫 How to reach me? email: elishabagaiya@yahoo.com, twitter: @bagaiss
 

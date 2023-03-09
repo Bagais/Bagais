@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bagais
-- 👀 I’m interested in learning to create clean and functional code
-- 🌱 Currently learning to be a fullstack developer.
+- 👋 Hi, I’m Elisha
+- 👀 I’m learning to create clean and functional code
+- 🌱 Currently on a journey to becoming a fullstack developer
 - 💞️ I’m looking to collaborate on website design, maintenance and then animation subsequently.
 - 📫 How to reach me? email: elishabagaiya@yahoo.com, twitter: @bagaiss
 
